@@ -33,6 +33,7 @@ class GuestFormActivity : AppCompatActivity (), View.OnClickListener{
 
             mViewMode.save(name, presence)
 
+
         }
     }
 
