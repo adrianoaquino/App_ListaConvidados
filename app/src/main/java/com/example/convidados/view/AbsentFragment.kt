@@ -27,6 +27,6 @@ class AbsentFragment : Fragment() {
         absentViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
         })
-        return root pppppppp
+        return root
     }
 }
