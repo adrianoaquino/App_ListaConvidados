@@ -32,8 +32,6 @@ class GuestFormActivity : AppCompatActivity (), View.OnClickListener{
             val presence = radio_presence.isChecked
 
             mViewMode.save(name, presence)
-
-
         }
     }
 
